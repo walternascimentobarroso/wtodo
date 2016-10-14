@@ -1,4 +1,4 @@
 create table (
-	id serial primary key,
+	id uuid primary key,
 	nome varchar
 );
